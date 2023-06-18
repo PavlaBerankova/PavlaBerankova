@@ -2,6 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=PavlaBerankova&color=blueviolet)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavlaBerankova)](https://git.io/streak-stats)
 <!--
 **PavlaBerankova/PavlaBerankova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
