@@ -5,7 +5,9 @@
 <a href="https://linkedin.com/in/berankova-pavla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berankova-pavla" height="30" width="40" /></a>
 </p>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavlaBerankova&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
