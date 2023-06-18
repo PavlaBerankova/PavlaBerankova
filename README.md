@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=PavlaBerankova&color=yellow)
 
+<a href="https://www.linkedin.com/in/berankova-pavla/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavlaBerankova)](https://git.io/streak-stats)
