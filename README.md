@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=4000&pause=1200&color=F7C300&multiline=true&width=4000&height=1000&lines=Hello+world!;I+am+learning+Swift.;Swift+is+my+number+1.;I+mean+the+number+%5B0%5D.;I+want+to+work+as+iOS+developer+after+maternity+leave.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=4000&pause=1200&color=F7C300&multiline=true&width=4000&height=1000&lines=Hello+world!+I+am+learning+Swift+and+it+is+my+number+1.;Sorry%2C+I+mean+the+number+%5B0%5D.;I+want+to+work+as+iOS+developer+after+maternity+leave.)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
