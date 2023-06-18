@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=PavlaBerankova&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=PavlaBerankova&color=yellow)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)
 
