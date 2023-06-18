@@ -1,4 +1,4 @@
-![banner (6)](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/857be2f7-9292-4549-83a5-decf049b9317)
+![banner (7)](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/b58ea435-2d91-4532-9977-3610ffd049f2)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
