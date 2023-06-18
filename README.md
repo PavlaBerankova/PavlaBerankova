@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=PavlaBerankova&theme=gruvbox&title=Stars,Repositories,Commits,Followers)](https://github.com/PavlaBerankova/github-profile-trophy)
+
 <!--
 **PavlaBerankova/PavlaBerankova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
