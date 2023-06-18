@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&color=F7C300&multiline=true&width=435&lines=I+am+learning+Swift.;Swift+is+my+number+1.;I+mean+the+number+%5B0%5D;I+want+to+work+as+iOS+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=120&duration=2000&color=F7C300&multiline=true&width=4000&height=1000&lines=Hello+world!;I+am+learning+Swift.;Swift+is+my+number+1.;I+mean+the+number+%5B0%5D.;I+want+to+work+as+iOS+developer+after+maternity+leave.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=PavlaBerankova&color=yellow)
 
