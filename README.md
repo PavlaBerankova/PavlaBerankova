@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=4000&pause=1200&color=F7C300&multiline=true&width=4000&height=500&lines=I+am+learning+Swift+and+it+is+my+number+1.;Sorry%2C+I+mean+the+number+%5B0%5D.;I+want+to+work+as+iOS+developer+after+maternity+leave.)](https://git.io/typing-svg)
-
-
+![banner (6)](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/857be2f7-9292-4549-83a5-decf049b9317)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
@@ -8,6 +6,8 @@
 
 <!--
 **PavlaBerankova/PavlaBerankova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=80&duration=4000&pause=1200&color=F7C300&multiline=true&width=4000&height=500&lines=I+am+learning+Swift+and+it+is+my+number+1.;Sorry%2C+I+mean+the+number+%5B0%5D.;I+want+to+work+as+iOS+developer+after+maternity+leave.)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
