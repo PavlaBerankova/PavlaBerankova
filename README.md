@@ -4,12 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavlaBerankova&theme=gruvbox&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-
-
-
 <!--
 **PavlaBerankova/PavlaBerankova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
