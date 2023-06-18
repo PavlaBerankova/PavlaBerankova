@@ -1,6 +1,7 @@
-![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/497c75c6-a92b-4f28-ad1e-1a3bbb6cebac)
+![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353)
 
 
+## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PavlaBerankova&theme=gruvbox&title=Stars,Repositories,Commits,Followers)](https://github.com/PavlaBerankova/github-profile-trophy)
