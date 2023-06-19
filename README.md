@@ -4,7 +4,7 @@ I am currently on maternity leave and because i needed some brain fuel, I began 
 
 I began my learning journey around September 2022 and I strive to allocate time to it almost every day, which is not so difficult, because I genuinely enjoy programming.
 
-I firmly believe in the motto "1% BETTER EVERY DAY" and my long-term aspiration is to work as an iOS developer. 
+My long-term aspiration is to work as an iOS developer.
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
