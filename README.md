@@ -6,6 +6,9 @@ I began my learning journey around September 2022 and I strive to allocate time 
 
 **My long-term aspiration is to work as an iOS developer.**
 
+
+
+
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
