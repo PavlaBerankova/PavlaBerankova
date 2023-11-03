@@ -6,7 +6,9 @@ I began my learning journey around September 2022 and I strive to allocate time 
 
 **My long-term aspiration is to work as an iOS developer.**
 
-
+## My Projects
+My very first attempt at developing a mobile application, guessing numbers, after half a year i refactored code and UI. 
+https://github.com/PavlaBerankova/GuessNumber
 
 
 ## My GitHub Stats
