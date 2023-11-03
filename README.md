@@ -8,7 +8,7 @@ I began my learning journey around September 2022 and I strive to allocate time 
 **My long-term aspiration is to work as an iOS developer.**
 
 ## My Projects
- - [GuessNumber](https://github.com/PavlaBerankova/GuessNumber) - my very first attempt at developing a mobile application guessing numbers
+ - [GuessNumber](https://github.com/PavlaBerankova/GuessNumber) - my very first attempt at developing a mobile application - guessing numbers
 - [Advent of Code](https://github.com/PavlaBerankova/Advent-of-Code) - solving puzzles from Advent of Code
 - [MyRecipe](https://github.com/PavlaBerankova/MyRecipe) - application with recipes
 - [TechDocumentatio](https://github.com/PavlaBerankova/jfc-tech-documentation-ipad) - mini project (challenge from junior.guru), application for iPad with JS Documentation
