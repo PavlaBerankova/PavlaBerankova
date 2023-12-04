@@ -12,7 +12,6 @@ I began my learning journey around September 2022 and I strive to allocate time 
 - [Advent of Code](https://github.com/PavlaBerankova/Advent-of-Code) - solving puzzles from Advent of Code
 - [MyRecipe](https://github.com/PavlaBerankova/MyRecipe) - application with recipes
 - [TechDocumentation](https://github.com/PavlaBerankova/jfc-tech-documentation-ipad) - mini project (challenge from junior.guru), application for iPad with JS Documentation
-- [CulturalMap](https://github.com/PavlaBerankova/CulturalMap) - my biggest and newest project that I'm still working on, Cultural Map app shows cultural places in Brno
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
