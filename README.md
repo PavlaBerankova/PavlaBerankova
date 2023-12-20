@@ -11,7 +11,8 @@ I began my learning journey around September 2022 and I strive to allocate time 
  - [GuessNumber](https://github.com/PavlaBerankova/GuessNumber) - my very first attempt at developing a mobile application - guessing numbers
 - [Advent of Code](https://github.com/PavlaBerankova/Advent-of-Code) - solving puzzles from Advent of Code
 - [MyRecipe](https://github.com/PavlaBerankova/MyRecipe) - application with recipes
-- [TechDocumentation](https://github.com/PavlaBerankova/jfc-tech-documentation-ipad) - mini project (challenge from junior.guru), application for iPad with JS Documentation
+- [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
+- [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - mobile app shows cultural place and events in Brno, I am still working on this project, project from [Futured DevAcademy](https://github.com/futuredapp/dev-academy-ios)
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
