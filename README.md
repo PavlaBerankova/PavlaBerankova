@@ -8,9 +8,6 @@ I began my learning journey around September 2022 and I strive to allocate time 
 **My long-term aspiration is to work as an iOS developer.**
 
 ## My Projects
- - [GuessNumber](https://github.com/PavlaBerankova/GuessNumber) - my very first attempt at developing a mobile application - guessing numbers
-- [Advent of Code](https://github.com/PavlaBerankova/Advent-of-Code) - solving puzzles from Advent of Code
-- [MyRecipe](https://github.com/PavlaBerankova/MyRecipe) - application with recipes
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno, I am still working on this project
 ## My GitHub Stats
