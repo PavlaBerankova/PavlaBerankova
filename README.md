@@ -15,4 +15,3 @@ I began my learning journey around September 2022 and I strive to allocate time 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PavlaBerankova&theme=gruvbox&title=Stars,Repositories,Commits,Followers)](https://github.com/PavlaBerankova/github-profile-trophy)
 
-
