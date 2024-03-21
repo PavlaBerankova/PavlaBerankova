@@ -3,7 +3,7 @@
 ## About me
 I am currently on maternity leave and because I'm an apple fan, I began self-studying programming in Swift. Thanks to junior.guru, I became part of a great IT community where people helped me find the right direction and kept me motivated. At the same time I have the honor of being a moderator on the junior.guru discord.
 
-I began my learning journey around September 2022 and I strive to allocate time to it almost every day, which is not so difficult, because I genuinely enjoy programming.
+I began my learning journey around September 2022 and it is still going on.
 
 **My long-term aspiration is to work as an iOS developer.**
 
