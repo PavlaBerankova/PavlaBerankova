@@ -10,6 +10,7 @@ I have been starting to learn since September 2022.
 ## My Projects
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno, I am still working on this project
+- [Div.cz mobile app](https://github.com/div-cz/div.cz_ios) - well, this repo is under development, I joined to the project [Div.cz](https://div.cz/), which connets movies, tv shows, books and games to one. I try develop an iOS mobile app for this project from scratch with others companions. Big challenge for me, but also big fun. So wish us luck 🍀.
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
 
