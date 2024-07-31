@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353)
 
 ## About me
-I am currently on maternity leave and because I'm an apple fan, I began self-studying programming in Swift. Thanks to junior.guru, I became part of a great IT community where people helped me find the right direction and kept me motivated. At the same time I have the honor of being a moderator on the junior.guru discord.
+I am currently on maternity leave and because I'm an apple fan, I began self-studying programming in Swift. Thanks to junior.guru, I became part of a great IT community where people helped me find the right direction and kept me motivated.
 
 I have been starting to learn since September 2022.
 
