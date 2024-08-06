@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353)
 
 ## About me
-I am currently on maternity leave and because I'm an apple fan, I began self-studying programming in Swift. Thanks to junior.guru, I became part of a great IT community where people helped me find the right direction and kept me motivated.
+I am an Apple enthusiast and during my parental leave, I started self-studying programming in Swift. I enjoy the UI/UX, I love SwiftUI, but I'm giving a chance to UIKit. Maybe even JavaScript, React and React Native. who knows ?? ""
 
 I have been starting to learn since September 2022.
 
