@@ -9,7 +9,8 @@ I have been starting to learn since September 2022.
 
 ## My Projects
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
-- [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno, I am still working on this project
+- [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
+  - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
