@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353) -->
 
- # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS AND FRONTEND DEV IN MAKING}}}$**
+ # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS and Frontend Dev in making}}}$**
  <br>
 
 ## About me
