@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353) -->
 
- # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS/Frontend dev in making | Code with passion}}}$** 
-<br>
+ # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS AND FRONTEND DEV IN MAKING}}}$**
+ <br>
 
 ## About me
 I am an Apple enthusiast and during my parental leave, I started self-studying programming in Swift. I enjoy the UI/UX, I love SwiftUI, but I'm giving a chance to UIKit.
