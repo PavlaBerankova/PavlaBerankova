@@ -4,11 +4,10 @@
 # iOS & Frontend | Code with passion
 
 ## About me
-I am an Apple enthusiast and during my parental leave, I started self-studying programming in Swift. I enjoy the UI/UX, I love SwiftUI, but I'm giving a chance to UIKit.
+I am an Apple enthusiast, and during my parental leave, I began self-studying programming in Swift. I enjoy working on UI/UX design, and I love using SwiftUI, though I am also giving UIKit a chance.
 
-- I have been starting to learn Swift since September 2022.
-- Since I enjoy the design part more, I started learning frontend (HTML, CSS, JS) at the end of 2024.
-
+- I started learning `Swift` in September 2022.
+- Since I enjoy the design aspect more, I began learning frontend development - `HTML`, `CSS`, and `JavaScript` at the end of 2024.
 
 ## My Projects
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
