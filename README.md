@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353) -->
 
 <!--  # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS and Frontend Dev | Code with Passion}}}$** -->
-# iOS & Frontend | Code with passion
+# Mobile Dev Enthusiast | Swift & React Native Explorer
 
 ## About me
 I am an Apple enthusiast, and during my parental leave, I began self-studying programming in Swift. I enjoy working on UI/UX design, and I love using SwiftUI, though I am also giving UIKit a chance.
