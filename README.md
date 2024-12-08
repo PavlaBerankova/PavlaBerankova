@@ -4,16 +4,15 @@
 # Mobile Dev Enthusiast | Swift & React Native Explorer
 
 ## About me
-I am an Apple enthusiast, and during my parental leave, I began self-studying programming in Swift. I enjoy working on UI/UX design, and I love using SwiftUI, though I am also giving UIKit a chance.
+I am an Apple enthusiast, and during my parental leave, I began self-studying programming in Swift. I enjoy working on UI/UX design and love using SwiftUI, though I also give UIKit a chance. Recently, I started learning React Native to expand my skills. My main focus remains on mobile app development.
 
-- I started learning `Swift` in September 2022.
-- Since I enjoy the design aspect more, I began learning frontend development - `HTML`, `CSS`, and `JavaScript` at the end of 2024.
+- **September 2022:** started learning Swift
+- **December 2024:** began learning React Native to explore cross-platform dev
 
 ## My Projects
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
-- [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
+- [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy (2023)](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
   - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
-- [Frontend Mentor Repo](https://github.com/PavlaBerankova/frontend-mentor) with my solutions
 
 ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
