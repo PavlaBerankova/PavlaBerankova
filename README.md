@@ -1,13 +1,13 @@
 <!-- ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353) -->
 
 <!--  # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS and Frontend Dev | Code with Passion}}}$** -->
-# Mobile Dev Enthusiast | Swift & React Native Explorer
+# Mobile Apps for Fun | Swift & React Native
 
 ## About me
 I am an Apple enthusiast, and during my parental leave, I began self-studying programming in Swift. I enjoy working on UI/UX design and love using SwiftUI, though I also give UIKit a chance. Recently, I started learning React Native to expand my skills. My main focus remains on mobile app development.
 
 - **September 2022:** started learning Swift
-- **December 2024:** began learning React Native to explore cross-platform dev
+- **December 2025:** began learning React Native to explore cross-platform dev
 
 ## My Projects
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
