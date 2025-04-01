@@ -10,6 +10,7 @@ I am an Apple enthusiast, and during my parental leave, I began self-studying pr
 - **December 2025:** began learning React Native to explore cross-platform dev
 
 ## My Projects
+- [PodStack](https://github.com/PavlaBerankova/PodStack/tree/develop/swift-data) - As a podcast enthusiast, I can create my own folders with podcasts and their episodes in this app, giving me a better overview of new episodes on specific topics. This allows me to easily choose a topic that interests me at the moment—whether it’s news, educational podcasts, English-language podcasts, or just entertainment and talk shows. The app is designed for browsing and organizing only; to play an episode, it opens in the Apple Podcasts app. I’m still working on the app.
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy (2023)](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
   - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
