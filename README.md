@@ -1,12 +1,18 @@
 <!-- ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353) -->
 
 <!--  # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS and Frontend Dev | Code with Passion}}}$** -->
-# Mobile Apps for Fun 
+# Programming for Fun 
 
 ## About me
-I am an Apple enthusiast, and during my parental leave, I began self-studying programming in Swift. I enjoy working on UI/UX design and love using SwiftUI, though I also give UIKit a chance. Recently, I started learning React Native to expand my skills. My main focus remains on mobile app development.
+👩‍💻 I started learning programming since 2022, during my parental leave, first with Swift.
 
-- **September 2022:** started learning Swift
+🌱 Along the way I’ve explored some web basics (HTML, CSS, JS), React Native and lately Python and Kotlin.
+
+✨ I enjoy UI/UX design, building mobile apps, and discovering how things work across platforms.
+
+📱 My main focus is mobile development, but I like to try a bit of everything to keep learning and growing.
+
+⸻
 
 ## My Projects
 ### Mobile Apps
@@ -15,6 +21,8 @@ I am an Apple enthusiast, and during my parental leave, I began self-studying pr
 - [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records applied CV, job offer information, filter and sort by status
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy (2023)](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
   - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
+ 
+- [Guess The Number](https://github.com/PavlaBerankova/GuessNumber) - MY VERY FIRST MOBILE APP, NOTHING SPECIAL, BUT LOTS OF FUN
  
 ### Frontend
 - [Solution from Frontendmentor](https://github.com/PavlaBerankova/frontend-mentor?tab=readme-ov-file) - since I enjoy frontend and UI, I tried out a few frontend mentor challenges.
