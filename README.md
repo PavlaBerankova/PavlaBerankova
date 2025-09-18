@@ -11,13 +11,13 @@ I am an Apple enthusiast, and during my parental leave, I began self-studying pr
 ## My Projects
 ### Mobile Apps
 
-
-- [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records sent CV, job offer information, filter and sort by status
+- [Lidé Štatlu](https://github.com/PavlaBerankova/LideStatlu) - a very simple mobile application displaying data on the structure of Brno's population
+- [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records applied CV, job offer information, filter and sort by status
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy (2023)](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
   - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
  
 ### Frontend
-- [Solution from Frontendmentor](https://github.com/PavlaBerankova/frontend-mentor?tab=readme-ov-file)
+- [Solution from Frontendmentor](https://github.com/PavlaBerankova/frontend-mentor?tab=readme-ov-file) - since I enjoy frontend and UI, I tried out a few frontend mentor challenges.
 
 <!-- ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
