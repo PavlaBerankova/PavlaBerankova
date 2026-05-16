@@ -20,7 +20,6 @@
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy (2023)](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
   - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
  
-- [Guess The Number](https://github.com/PavlaBerankova/GuessNumber) - MY VERY FIRST MOBILE APP, NOTHING SPECIAL, BUT LOTS OF FUN
 
 
 <!-- ## My GitHub Stats
