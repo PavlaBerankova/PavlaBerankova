@@ -1,16 +1,14 @@
 <!-- ![MasterHead](https://github.com/PavlaBerankova/PavlaBerankova/assets/107038196/373d6310-4f90-471d-8fc9-f44932075353) -->
 
 <!--  # **$\color{rgb(250,190,48)}{\huge{\textbf{ iOS and Frontend Dev | Code with Passion}}}$** -->
-# Programming for Fun 
+# Programming for not just Fun 
 
 ## About me
 👩‍💻 I started learning programming since 2022, during my parental leave, first with Swift.
 
-🌱 Along the way I’ve explored some web basics (HTML, CSS, JS), React Native and lately Python and Kotlin.
+🌱 Along the way I’ve explored some web basics (HTML, CSS), React Native.
 
-✨ I enjoy UI/UX design, building mobile apps, and discovering how things work across platforms.
-
-📱 My main focus is mobile development, but I like to try a bit of everything to keep learning and growing.
+✨ I have been working as a PHP programmer since 2026, making websites on a company CMS and learning the Laravel framework in my free time.
 
 ⸻
 
@@ -18,14 +16,12 @@
 ### Mobile Apps
 
 - [Lidé Štatlu](https://github.com/PavlaBerankova/LideStatlu) - a very simple mobile application displaying data on the structure of Brno's population
-- [CareerPathLog](https://github.com/PavlaBerankova/CareerPathLog) - mobile app, when user can records applied CV, job offer information, filter and sort by status
+
 - [Kulturmapa](https://github.com/PavlaBerankova/kulturmapa/tree/develop/events) - project from [Futured DevAcademy (2023)](https://github.com/futuredapp/dev-academy-ios), mobile app shows cultural place and events in Brno. 
   - this app is also already on [AppStore](https://apps.apple.com/cz/app/kulturmapa/id6477453765?l=cs&platform=iphone).
  
 - [Guess The Number](https://github.com/PavlaBerankova/GuessNumber) - MY VERY FIRST MOBILE APP, NOTHING SPECIAL, BUT LOTS OF FUN
- 
-### Frontend
-- [Solution from Frontendmentor](https://github.com/PavlaBerankova/frontend-mentor?tab=readme-ov-file) - since I enjoy frontend and UI, I tried out a few frontend mentor challenges.
+
 
 <!-- ## My GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlaBerankova&show_icons=true&theme=gruvbox)   
