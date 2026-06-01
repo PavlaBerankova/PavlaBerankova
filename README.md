@@ -6,7 +6,7 @@
 ## About me
 👩‍💻 I started learning programming since 2022, during my parental leave, first with Swift.
 
-🌱 Along the way I’ve explored some web basics (HTML, CSS), React Native.
+🌱 Along the way I’ve explored some web basics (HTML, CSS).
 
 ✨ I have been working as a PHP programmer since 2026, making websites on a company CMS and learning the Laravel framework in my free time.
 
